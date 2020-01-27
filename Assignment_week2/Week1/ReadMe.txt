@@ -1,0 +1,1 @@
+g++ .\menu.cpp .\help.cpp

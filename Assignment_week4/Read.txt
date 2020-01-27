@@ -1,0 +1,7 @@
+
+
+cd C:\Shark\Fontys\Sem7\CPP\Submission\Assignment4
+g++ Person.cpp Student.cpp ModuleGrade.cpp Group.cpp Main.cpp
+
+
+
